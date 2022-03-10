@@ -1,2 +1,2 @@
 # Omo
-A collection of reusable tricks
+A collection of reusable tricks in vue
